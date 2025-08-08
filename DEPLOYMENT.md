@@ -15,7 +15,8 @@ The following files have been configured for GitHub Pages deployment:
 ### `.github/workflows/deploy.yml`
 - **Purpose**: GitHub Actions workflow for automatic deployment
 - **Triggers**: Runs on every push to `main` branch
-- **Process**: Installs dependencies → Type checks → Builds → Deploys
+- **Process**: Installs dependencies → Type checks → Builds → Uploads artifact → Deploys
+- **Permissions**: Configured with proper GitHub Pages permissions
 
 ### `vite.config.js`
 - **Base Path**: Configured to use `/tic-tac-toe/` in production
