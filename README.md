@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe Game
+# 🎮 Tic-Tac-Toe Game v1.0
 
 A modern, interactive Tic-Tac-Toe game built with React, TypeScript, and Tailwind CSS. Features a clean UI, move history with time travel, and responsive design.
 
