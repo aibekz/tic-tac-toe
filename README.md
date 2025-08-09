@@ -7,6 +7,10 @@ A modern, interactive Tic-Tac-Toe game built with React, TypeScript, and Tailwin
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.2-3178c6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.1.11-38bdf8)
 
+## 🎮 Play Online
+
+**[🚀 Play the game live here!](https://aibekz.github.io/tic-tac-toe)**
+
 ## ✨ Features
 
 - **🎯 Classic Gameplay** - Traditional 3x3 Tic-Tac-Toe with X and O players
